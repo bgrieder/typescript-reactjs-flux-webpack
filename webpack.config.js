@@ -2,7 +2,7 @@
 
 module.exports = {
     //The sources of this app are made from a Typescript file and a Less file,
-    //These "entry points" will both respectively import their Typescript aand less dependencies
+    //These "entry points" will both respectively import their Typescript and less dependencies
     entry: {
         app: [
             './typescript/app.ts',
